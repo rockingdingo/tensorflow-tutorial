@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/didi/Desktop/project/github/tensorflow-tutorial/cpp/ckpt/nn_model.ckpt"
+all_model_checkpoint_paths: "/Users/didi/Desktop/project/github/tensorflow-tutorial/cpp/ckpt/nn_model.ckpt"
