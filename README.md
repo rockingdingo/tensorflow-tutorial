@@ -13,7 +13,9 @@ python nn_model.py   # 训练nn模型对Iris数据集分类
 sh build.sh          # 运行 freeze_graph.py 将*.ckpt 参数文件和 nn_model.pbtxt 模型定义文件绑定, 输出 nn_model_frozen.pb
 
 # 成功标志: 
+
 # Converted 2 variables to const ops.
+
 # 9 ops in the final graph.
 
 ```
