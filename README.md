@@ -46,6 +46,7 @@ sh run.sh   # 运行可执行文件 tfcpp_demo, 读取python预训练好的模�
 [AI IMAGE GENERATOR](http://www.deepnlp.org/store/image-generator) <br>
 [AI Search Engine](http://www.deepnlp.org/store/search-engine)  <br>
 [AI Chatbot Assistant](http://www.deepnlp.org/store/chatbot-assistant)  <br>
+[AI VIDEO GENERATOR Reviews](http://www.deepnlp.org/store/video-generator) <br>
 [AI for ELDERLY](http://www.deepnlp.org/store/elderly)  <br>
 [AI for KIDS](http://www.deepnlp.org/store/kids)  <br>
 [AI in LAW](http://www.deepnlp.org/store/law) <br>
@@ -72,10 +73,18 @@ sh run.sh   # 运行可执行文件 tfcpp_demo, 读取python预训练好的模�
 [AI in HOUSING](http://www.deepnlp.org/store/housing) <br>
 [AI in COMMUNICATION](http://www.deepnlp.org/store/communication) <br>
 [AI in FOOD](http://www.deepnlp.org/store/food) <br>
+[Robot Quadruped Robot Reviews](http://www.deepnlp.org/store/quadruped-robot) <br>
+[Robot Humanoid Robot Reviews](http://www.deepnlp.org/store/humanoid-robot) <br>
+[Robotaxi Reviews](http://www.deepnlp.org/store/robotaxi) <br>
+[Electric Vehicle Reviews](http://www.deepnlp.org/store/electric-vehicle) <br>
+
+
 
 ## Related Blog
 [Statistics Equation Formula](http://www.deepnlp.org/blog/statistics-equations-latex-code) <br>
 [Machine Learning Equation Formula](http://www.deepnlp.org/blog/latex-code-machine-learning-equations) <br>
+[Introduction to multimodal generative models](http://www.deepnlp.org/blog/introduction-to-multimodal-generative-models) <br>
+[Generative AI Search Engine Optimization: How to Improve Your Content](http://www.deepnlp.org/blog/generative-ai-search-engine-optimization-how-to-improve-your-content) <br>
 [AI Courses for Kids](http://www.deepnlp.org/blog/how-to-use-generative-ai-to-draw-paw-patrol-dog-skye) <br>
 [AI in Fashion: Tell IWC Schaffhausen Watches Real or Fake](http://www.deepnlp.org/blog/how-to-tell-iwc-schaffhausen-watches-real-or-fake-20-steps) <br>
 [AI in Fashion: Tell Fendi bags real or fake](http://www.deepnlp.org/blog/how-to-tell-fendi-bags-real-or-fake-20-steps) <br>
