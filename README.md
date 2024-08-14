@@ -77,7 +77,15 @@ sh run.sh   # 运行可执行文件 tfcpp_demo, 读取python预训练好的模�
 [Robot Humanoid Robot Reviews](http://www.deepnlp.org/store/humanoid-robot) <br>
 [Robotaxi Reviews](http://www.deepnlp.org/store/robotaxi) <br>
 [Electric Vehicle Reviews](http://www.deepnlp.org/store/electric-vehicle) <br>
-
+[ChatGPT User Reviews](http://www.deepnlp.org/store/pub/pub-chatgpt-openai) <br>
+[Gemini User Reviews](http://www.deepnlp.org/store/pub/pub-gemini-google) <br>
+[Perplexity User Reviews](http://www.deepnlp.org/store/pub/pub-perplexity) <br>
+[Claude User Reviews](http://www.deepnlp.org/store/pub/pub-claude-anthropic) <br>
+[Midjourney User Reviews](http://www.deepnlp.org/store/pub/pub-midjourney) <br>
+[Stable Diffusion User Reviews](http://www.deepnlp.org/store/pub/pub-stable-diffusion) <br>
+[Runway User Reviews](http://www.deepnlp.org/store/pub/pub-runway) <br>
+[GPT-5 Forecast](http://www.deepnlp.org/store/pub/pub-gpt-5) <br>
+[Generative AI Search Engine Optimization](http://www.deepnlp.org/blog/generative-ai-search-engine-optimization-how-to-improve-your-content)
 
 
 ## Related Blog
