@@ -99,6 +99,10 @@ sh run.sh   # 运行可执行文件 tfcpp_demo, 读取python预训练好的模�
 [What are the most important features Humanoid Robot should have in the future](http://www.deepnlp.org/question/what-are-the-most-important-features-humanoid-robot-should-have-in-the-future) <br>
 [What are the typical use cases of Humanoid Robots](http://www.deepnlp.org/question/what-are-the-typical-use-cases-of-humanoid-robots) <br>
 
+## AI Agents Multi-Agents Reasoning
+[AI Agent Visualization Review Asynchronous Multi-Agent Simulation](http://www.deepnlp.org/blog/ai-agent-visualization-review-asynchronous-multi-agent-simulation) <br>
+[Dialogue Visualization Agent Multimodal Visualization Tools for AI Systems A Review](http://www.deepnlp.org/blog/dialogue-agent-multimodal-visualization-tools-for-ai-systems) <br>
+
 
 ## Related Blog
 [Statistics Equation Formula](http://www.deepnlp.org/blog/statistics-equations-latex-code) <br>
@@ -124,3 +128,5 @@ sh run.sh   # 运行可执行文件 tfcpp_demo, 读取python预训练好的模�
 [DeepNLP Watch Bags Review Panel](http://www.deepnlp.org/review/ecommerce/watch) <br>
 [DeepNLP Review Ecommerce Brand List](http://www.deepnlp.org/review/ecommerce/pub) <br>
 [DeepNLP Review Car Brand List](http://www.deepnlp.org/review/car/pub) <br>
+[AI Agent Visualization Review Asynchronous Multi-Agent Simulation](http://www.deepnlp.org/blog/ai-agent-visualization-review-asynchronous-multi-agent-simulation) <br>
+[Dialogue Visualization Agent Multimodal Visualization Tools for AI Systems A Review](http://www.deepnlp.org/blog/dialogue-agent-multimodal-visualization-tools-for-ai-systems) <br>
