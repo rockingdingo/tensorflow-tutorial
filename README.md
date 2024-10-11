@@ -103,6 +103,23 @@ sh run.sh   # 运行可执行文件 tfcpp_demo, 读取python预训练好的模�
 [AI Agent Visualization Review Asynchronous Multi-Agent Simulation](http://www.deepnlp.org/blog/ai-agent-visualization-review-asynchronous-multi-agent-simulation) <br>
 [Dialogue Visualization Agent Multimodal Visualization Tools for AI Systems A Review](http://www.deepnlp.org/blog/dialogue-agent-multimodal-visualization-tools-for-ai-systems) <br>
 
+## AI Service Reviews and Ratings
+[OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
+[ChatGPT User Reviews](http://www.deepnlp.org/store/pub/pub-chatgpt-openai) <br>
+[Gemini User Reviews](http://www.deepnlp.org/store/pub/pub-gemini-google) <br>
+[Perplexity User Reviews](http://www.deepnlp.org/store/pub/pub-perplexity) <br>
+[Claude User Reviews](http://www.deepnlp.org/store/pub/pub-claude-anthropic) <br>
+[Midjourney User Reviews](http://www.deepnlp.org/store/pub/pub-midjourney) <br>
+[Stable Diffusion User Reviews](http://www.deepnlp.org/store/pub/pub-stable-diffusion) <br>
+[Runway User Reviews](http://www.deepnlp.org/store/pub/pub-runway) <br>
+[GPT-5 Forecast](http://www.deepnlp.org/store/pub/pub-gpt-5) <br>
+[Kling AI Reviews](http://www.deepnlp.org/store/pub/pub-kling-kwai) <br>
+[Dreamina AI Reviews](http://www.deepnlp.org/store/pub/pub-dreamina-douyin) <br>
+[Flux AI Reviews](http://www.deepnlp.org/store/pub/pub-flux-1-black-forest-lab) <br>
+[Qwen AI Reviews](http://www.deepnlp.org/store/pub/pub-qwen-alibaba) <br>
+[Doubao Reviews](http://www.deepnlp.org/store/pub/pub-doubao-douyin) <br>
+[Coursera Reviews](http://www.deepnlp.org/store/pub/pub-coursera) <br>
+[Udacity Reviews](http://www.deepnlp.org/store/pub/pub-udacity) <br>
 
 ## Related Blog
 [Statistics Equation Formula](http://www.deepnlp.org/blog/statistics-equations-latex-code) <br>
